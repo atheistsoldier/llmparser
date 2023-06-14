@@ -1,6 +1,6 @@
 // Define an enum for the different LLM models
 export enum LLMModels {
-  GPT_3_5_Turbo = 'gpt-3.5-turbo',
+  GPT_3_5_Turbo = 'gpt-3.5-turbo-16k',
   GPT_4 = 'gpt-4',
   GPT_3_5 = 'text-davinci-003',
 }
